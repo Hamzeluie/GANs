@@ -1,4 +1,4 @@
-**the first botebook**
+**the first botebook considers:**
 
 **[Generative Teaching Networks (GTN)](https://arxiv.org/abs/1912.07768)**
 
@@ -12,7 +12,7 @@ this notebook exposure to the following concepts:
 
 
 
-the second notebook considers:
+**the second notebook considers:**
 
 
 **Cifar100 Data augmentaion**
